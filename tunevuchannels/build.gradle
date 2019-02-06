@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('tunevuchannels-v.0.39-scmpt.1.7.aar'))
